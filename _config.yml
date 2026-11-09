@@ -1,6 +1,6 @@
-title: "cuda_cleaner"
+title: "cuda-cleaner"
 description: "A shell script to remove all  cuda libraries"
-baseurl: "/cuda_cleaner"
+baseurl: "/cuda-cleaner"
 url: "https://europanite.github.io"
 theme: minima
 markdown: kramdown
